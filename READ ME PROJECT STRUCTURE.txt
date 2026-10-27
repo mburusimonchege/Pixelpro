@@ -1,0 +1,14 @@
+pixelpro-portfolio/
+│
+├── index.html
+├── about.html
+├── portfolio.html
+├── services.html
+├── uiux.html
+├── testimonials.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+└── images/
